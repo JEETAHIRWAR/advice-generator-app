@@ -28,59 +28,41 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
+
+
 ### Desktop Screenshot
 
 ![Desktop Screenshot](./design/desktop-Screenshot1.png "Desktop Screenshot")
 
+### Mobile Screenshot
 <div style="display: flex; align-items: center;">
-<div align="left">     
+  <img align="left" src="./design/mobile-Screenshot2.png" alt="Mobile Screenshot" width="360" height="680" style="margin-right: 50px;">
+<div>     
 
-### Links
+> ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JEETAHIRWAR/advice-generator-app)
-- Live Site URL: [Add live site URL here](https://jeetahirwar.github.io/advice-generator-app/)
+> - Solution URL: [Add solution URL here](https://github.com/JEETAHIRWAR/advice-generator-app)
+> - Live Site URL: [Add live site URL here](https://jeetahirwar.github.io/advice-generator-app/)
 
-## My process
+> ## My process
 
-### Built with
+> ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- JavaScript
-- Fetch API for data retrieval
-- Responsive design
-- Box shadows for enhanced styling
+> 
+>> - Semantic HTML5 markup
+>> - CSS custom properties
+>> - Flexbox
+>> - CSS Grid
+>> - Mobile-first workflow
+>> - JavaScript
+>> - Fetch API for data retrieval
+>> - Responsive design
+>> - Box shadows for enhanced styling
+> 
 
   </div>
-
-  ### Mobile Screenshot
-
-  <img align="left" src="./design/mobile-Screenshot2.png" alt="Mobile Screenshot" width="360" height="680" style="margin-right: 50px;">
 </div>
 
-
-
-<!-- ### Links
-
-- Solution URL: [Add solution URL here](https://github.com/JEETAHIRWAR/advice-generator-app)
-- Live Site URL: [Add live site URL here](https://jeetahirwar.github.io/advice-generator-app/)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- JavaScript
-- Fetch API for data retrieval
-- Responsive design
-- Box shadows for enhanced styling -->
 
 ### What I learned
 
