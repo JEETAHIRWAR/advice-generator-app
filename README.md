@@ -35,9 +35,9 @@ Users should be able to:
 ### Mobile Screenshot
 <div style="display: flex; align-items: center;">
   <img align="left" src="./design/mobile-Screenshot2.png" alt="Mobile Screenshot" width="360" height="680" style="margin-right: 50px;">
-  <div>
+<div align="right">     
 
-  ### Links
+### Links
 
 - Solution URL: [Add solution URL here](https://github.com/JEETAHIRWAR/advice-generator-app)
 - Live Site URL: [Add live site URL here](https://jeetahirwar.github.io/advice-generator-app/)
@@ -61,7 +61,7 @@ Users should be able to:
 
 
 
-### Links
+<!-- ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/JEETAHIRWAR/advice-generator-app)
 - Live Site URL: [Add live site URL here](https://jeetahirwar.github.io/advice-generator-app/)
@@ -78,7 +78,7 @@ Users should be able to:
 - JavaScript
 - Fetch API for data retrieval
 - Responsive design
-- Box shadows for enhanced styling
+- Box shadows for enhanced styling -->
 
 ### What I learned
 
