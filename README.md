@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Mobile Screenshot
 <div style="display: flex; align-items: center;">
-  <img src="./design/mobile-Screenshot2.png" alt="Mobile Screenshot" width="400" height="680" style="margin-right: 50px;">
+  <img src="./design/mobile-Screenshot2.png" alt="Mobile Screenshot" width="360" height="680" style="margin-right: 50px;">
   <div>
 
   ### Links
