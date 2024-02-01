@@ -49,15 +49,15 @@ Users should be able to:
 > ### Built with
 
 > 
->> - Semantic HTML5 markup
->> - CSS custom properties
->> - Flexbox
->> - CSS Grid
->> - Mobile-first workflow
->> - JavaScript
->> - Fetch API for data retrieval
->> - Responsive design
->> - Box shadows for enhanced styling
+>>  Semantic HTML5 markup
+>>  CSS custom properties
+>>  Flexbox
+>>  CSS Grid
+>>  Mobile-first workflow
+>>  JavaScript
+>>  Fetch API for data retrieval
+>>  Responsive design
+>>  Box shadows for enhanced styling
 > 
 
   </div>
@@ -67,6 +67,8 @@ Users should be able to:
 ### What I learned
 
 During this project, I learned how to use the Fetch API to retrieve data from an external source and update the content dynamically on the webpage. I also improved my skills in responsive design, incorporating box shadows, and creating interactive elements.
+
+
 
 ### Continued development
 
