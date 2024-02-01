@@ -49,7 +49,7 @@ Users should be able to:
  ### Built with
 
 
-  Semantic HTML5 markup </br>
+  <pre> - Semantic HTML5 markup</pre> </br>
   CSS custom properties </br>
   Flexbox </br>
   CSS Grid </br>
