@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Mobile Screenshot
 
-<img align="left" src="./design/mobile-Screenshot2.png" alt="Mobile Screenshot" width="400" height="680">
+<img align="left" src="./design/mobile-Screenshot2.png" alt="Mobile Screenshot" width="400" height="680" style="margin-right: 50px;">
 
 
 ### Links
