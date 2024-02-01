@@ -33,8 +33,32 @@ Users should be able to:
 ![Desktop Screenshot](./design/desktop-Screenshot1.png "Desktop Screenshot")
 
 ### Mobile Screenshot
+<div style="display: flex; align-items: center;">
+  <img src="./design/mobile-Screenshot2.png" alt="Mobile Screenshot" width="400" height="680" style="margin-right: 50px;">
+  <div>
 
-<img align="left" src="./design/mobile-Screenshot2.png" alt="Mobile Screenshot" width="400" height="680" style="margin-right: 50px;">
+  ### Links
+
+- Solution URL: [Add solution URL here](https://github.com/JEETAHIRWAR/advice-generator-app)
+- Live Site URL: [Add live site URL here](https://jeetahirwar.github.io/advice-generator-app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- JavaScript
+- Fetch API for data retrieval
+- Responsive design
+- Box shadows for enhanced styling
+
+  </div>
+</div>
+
 
 
 ### Links
