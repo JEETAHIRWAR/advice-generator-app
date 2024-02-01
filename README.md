@@ -32,10 +32,8 @@ Users should be able to:
 
 ![Desktop Screenshot](./design/desktop-Screenshot1.png "Desktop Screenshot")
 
-### Mobile Screenshot
 <div style="display: flex; align-items: center;">
-  <img align="left" src="./design/mobile-Screenshot2.png" alt="Mobile Screenshot" width="360" height="680" style="margin-right: 50px;">
-<div align="right">     
+<div align="left">     
 
 ### Links
 
@@ -57,6 +55,10 @@ Users should be able to:
 - Box shadows for enhanced styling
 
   </div>
+
+  ### Mobile Screenshot
+
+  <img align="left" src="./design/mobile-Screenshot2.png" alt="Mobile Screenshot" width="360" height="680" style="margin-right: 50px;">
 </div>
 
 
