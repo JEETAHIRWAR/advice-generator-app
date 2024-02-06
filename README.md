@@ -109,7 +109,7 @@ Feel free to connect with me on LinkedIn:
 [![Twitter](https://img.shields.io/badge/Twitter-jeet_05404201-darkred)](https://www.twitter.com/jeet_05404201)
 [![Instagram](https://img.shields.io/badge/Instagram-_jeet__007_-darkblue)](https://www.instagram.com/_jeet__007_/)
 
-If you find the Quiz Web App helpful and would like to support my work, you can do so in the following ways:
+If you find the Advice generator App helpful and would like to support my work, you can do so in the following ways:
 
 1. **⭐Star this Repository:** If you like this project, show your appreciation by starring the GitHub repository. Your stars help others discover and benefit from this project as well.
 
